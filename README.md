@@ -1,6 +1,8 @@
 # Time-Craft
 ## A Minimalistic and Beautiful Clock Widget for macOS
 
+## Works With Ubersicht
+
 ### It is made with CoffeeScript that follows simple HTML , CSS and Javascript logic
 ### Hence it is fully customizable :)
 Here are two layouts
