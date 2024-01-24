@@ -25,6 +25,8 @@ style: """
     justify-content: center;
     align-items: center;
     font-family: "M PLUS Rounded 1c", sans-serif;
+    cursor: default;
+    user-select: none;
     color: rgba(255, 255, 255, 0.7);
     height:100vh;
     width:100vw;
